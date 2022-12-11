@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0025f494-ecfc-49de-9485-53165d2db831" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/jenkins/Artefact.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/jenkins/Trigger.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/mvntask/Maven version.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/mvntask/Test.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/mvntask/file.PNG" afterDir="false" />
+    <list default="true" id="0025f494-ecfc-49de-9485-53165d2db831" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/ExperimentalPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/MilitaryPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/PassengerPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/ClassificationLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/ExperimentalTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/MilitaryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/test/java/AirportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/mvntask/img.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +50,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/java/ta_training-java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Projects/java/ta_training-java/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\cleancode\planes" />
+      <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\cleancode\plane" />
+      <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\cleancode" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins\hurt_me_plenty" />
       <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins\bring_it_on" />
+      <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins\i_can_win" />
       <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins" />
       <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\mvntask" />
-      <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov" />
     </key>
   </component>
   <component name="RunManager">
@@ -97,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669997130247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1670241929073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670241929073</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
