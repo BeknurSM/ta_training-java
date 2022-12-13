@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0025f494-ecfc-49de-9485-53165d2db831" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Airport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/ExperimentalPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/MilitaryPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/PassengerPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/ClassificationLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/ExperimentalTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/MilitaryType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/test/java/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="0025f494-ecfc-49de-9485-53165d2db831" name="Changes" comment="third commit">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/ExperimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/planes/ExperimentalPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/MilitaryPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/planes/MilitaryPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/planes/PassengerPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/Planes/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/planes/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/ClassificationLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/ClassificationLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/ExperimentalTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/main/java/models/ExperimentalTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/test/java/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes/src/test/java/AirportTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Projects/java/ta_training-java/src/main/java/com/epam/training/student_beknur_smagulov/cleancode/planes",
+    "last_opened_file_path": "D:/Projects/java/aircompany/Java",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -66,11 +62,11 @@
       <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\cleancode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins\hardcore" />
       <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins\hurt_me_plenty" />
       <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins\bring_it_on" />
       <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins\i_can_win" />
       <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\jenkins" />
-      <recent name="D:\Projects\java\ta_training-java\src\main\java\com\epam\training\student_beknur_smagulov\mvntask" />
     </key>
   </component>
   <component name="RunManager">
@@ -116,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670241929073</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="third commit">
+      <created>1670757225921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670757225921</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>

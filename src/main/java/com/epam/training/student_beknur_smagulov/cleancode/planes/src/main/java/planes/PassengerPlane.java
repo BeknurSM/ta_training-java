@@ -1,8 +1,8 @@
-package com.epam.training.student_beknur_smagulov.cleancode.planes.src.main.java.Planes;
+package com.epam.training.student_beknur_smagulov.cleancode.planes.src.main.java.planes;
 
 import java.util.Objects;
 
-public class PassengerPlane extends Plane{
+public class PassengerPlane extends Plane {
 
     private int passengersCapacity;
 

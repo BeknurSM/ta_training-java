@@ -1,9 +1,9 @@
-package com.epam.training.student_beknur_smagulov.cleancode.planes.src.main.java.Planes;
+package com.epam.training.student_beknur_smagulov.cleancode.planes.src.main.java.planes;
 
 import java.util.Objects;
 
 abstract public class Plane {
-    String model;
+    private String model;
     private int maxSpeed;
     private int maxFlightDistance;
     private int maxLoadCapacity;
@@ -15,9 +15,7 @@ abstract public class Plane {
         this.maxLoadCapacity = maxLoadCapacity;
     }
 
-    public String getModel() {
-        return model;
-    }
+    public String getModel() { return model; }
 
     public int getMaxSpeed() {
         return maxSpeed;
