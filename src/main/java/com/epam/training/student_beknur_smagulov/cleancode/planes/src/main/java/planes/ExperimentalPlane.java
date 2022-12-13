@@ -21,4 +21,10 @@ public class ExperimentalPlane extends Plane {
     public void setClassificationLevel(ClassificationLevel classificationLevel) {
         this.classificationLevel = classificationLevel;
     }
+    @Override
+    public String toString() {
+        return "experimentalPlane{" +
+                "model='" + model + '\'' +
+                '}';
+    }
 }
